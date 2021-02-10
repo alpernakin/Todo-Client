@@ -1,4 +1,4 @@
-**To run the client** `npm run test` & `npm run start`
+**To run the client** ```npm run test``` & ```npm run start```
 
 **Must change in the server in index.js**
 
